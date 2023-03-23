@@ -3,6 +3,9 @@ A python Discord bot powered by GPT4 to provide natural language conversations, 
 
 Help fund the API costs by supporting me on https://ko-fi.com/sardistic 🍵🤖
 
+![vector header image, simple, with robot and multivac tube connotations, dark backgroun2d](https://i.imgur.com/Ruo7oC1.png)
+
+
 >Could you give me a brief description what this script does, like a github readme
 
 Title: Python Discord Weather Bot with GPT-4
