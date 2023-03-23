@@ -1,6 +1,8 @@
 # Multivac
 A python Discord bot powered by GPT4 to provide natural language conversations, responses, and image generation, while interacting with other API services.
 
+Help fund the API costs by supporting me on https://ko-fi.com/sardistic 🍵🤖
+
 >Could you give me a brief description what this script does, like a github readme
 
 Title: Python Discord Weather Bot with GPT-4
