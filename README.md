@@ -40,3 +40,13 @@ Mention the bot with a message containing the word "weather" followed by the cit
 Example response:
 
 "Currently, in New York, the weather is mostly cloudy with a temperature of 18°C. Make sure to take an umbrella if you're going out, as it might rain later in the day."
+
+
+**Update Summary: Added multivacv2.py**
+
+1. Enhanced reply functionality: The bot now replies directly to the user who initiated the prompt, providing a more conversational experience.
+2. Improved image generation response: The bot now sends a "Generating image, please wait..." message before generating the image. Once the image is generated, the initial message is deleted, and the bot replies with the generated image.
+3. Added support for bot image generation using Dalle: The bot now responds to image generation requests if it's mentioned after the word "imagine" is used at the begining of the prompt(e.g., "imagine a beautiful sunset @Bot").
+4. Removed weather functions for this script temporarily.
+
+These updates enhance the bot's user experience by providing more intuitive replies, better messaging during image generation, and support for image generation using Dalle.
