@@ -2,6 +2,7 @@
 
 # Multivac
 A python Discord bot powered by GPT4 to provide natural language conversations, responses, and image generation, while interacting with other API services.
+If you'd like to use this bot for other models, you should be able to change that in the "model="gpt-4", replace "gpt-4" with "gpt-3.5-turbo" or "text-davinci-002" for example. You can also adjust the max_tokens found under that to increase prompt and completion length.
 
 Help fund the API costs by supporting me on https://ko-fi.com/sardistic 🍵🤖
 
