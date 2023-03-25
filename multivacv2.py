@@ -33,7 +33,7 @@ async def generate_openai_response(prompt, conversation_id):
 def openai_response(prompt, conversation_id):
     if conversation_id not in conversation_history:
         conversation_history[conversation_id] = [
-            {"role": "system", "content": "You are a helpful discord member, you know it is 2023 and you are running on gpt69"}
+            {"role": "system", "content": "You are a helpful discord member that keeps completitions as concise as possible"}
         ]
 
     user_message = {"role": "user", "content": prompt}
