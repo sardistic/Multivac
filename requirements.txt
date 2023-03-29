@@ -1,0 +1,8 @@
+discord.py
+openai
+Pillow
+stability-sdk
+googlemaps
+openweathermapy
+aiohttp
+httpx
